@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/Codes/FPGALearning/mux2_1/quartus_prj/simulation/modelsim
+T_opt
+Z1 !s110 1719464710
+V^z6hBW@gfjOYcHHf3dUE=1
+04 9 4 work tb_mux2_1 fast 0
+=1-08bfb8749d21-667cf306-256-b70
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vmux2_1
+R1
+!i10b 1
+!s100 O6fbzWO?JPMlgnG9065hH0
+I`cGb7VQhE5ACf3Yb:Pn:81
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1719463659
+8C:/Work/Codes/FPGALearning/mux2_1/rtl/mux2_1.v
+FC:/Work/Codes/FPGALearning/mux2_1/rtl/mux2_1.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1719464710.356000
+!s107 C:/Work/Codes/FPGALearning/mux2_1/rtl/mux2_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/Codes/FPGALearning/mux2_1/rtl|C:/Work/Codes/FPGALearning/mux2_1/rtl/mux2_1.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Work/Codes/FPGALearning/mux2_1/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_mux2_1
+R1
+!i10b 1
+!s100 Wk@I52OBzPk3Xm_G4`0A_2
+I3^f1mzNVOA^[UP0aWdedQ2
+R2
+R0
+w1719464530
+8C:/Work/Codes/FPGALearning/mux2_1/quartus_prj/../sim/tb_mux2_1.v
+FC:/Work/Codes/FPGALearning/mux2_1/quartus_prj/../sim/tb_mux2_1.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1719464710.397000
+!s107 C:/Work/Codes/FPGALearning/mux2_1/quartus_prj/../sim/tb_mux2_1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/Codes/FPGALearning/mux2_1/quartus_prj/../sim|C:/Work/Codes/FPGALearning/mux2_1/quartus_prj/../sim/tb_mux2_1.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+C:/Work/Codes/FPGALearning/mux2_1/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

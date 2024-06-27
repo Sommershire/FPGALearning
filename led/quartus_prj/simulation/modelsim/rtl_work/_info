@@ -1,0 +1,60 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Work/Codes/FPGALearning/led/quartus_prj/simulation/modelsim
+T_opt
+Z1 !s110 1719462038
+V@UYYEDgD@dE_U__S8J5Ok1
+04 6 4 work tb_led fast 0
+=1-08bfb8749d21-667ce896-335-28b8
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+vled
+R1
+!i10b 1
+!s100 ihP>3n32JX`KEAl<n[Y1H1
+Ilm^mdgQ^o_YHZl9::RY?52
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1719461482
+8C:/Work/Codes/FPGALearning/led/rtl/led.v
+FC:/Work/Codes/FPGALearning/led/rtl/led.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1719462038.588000
+!s107 C:/Work/Codes/FPGALearning/led/rtl/led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/Codes/FPGALearning/led/rtl|C:/Work/Codes/FPGALearning/led/rtl/led.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Work/Codes/FPGALearning/led/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_led
+R1
+!i10b 1
+!s100 :FL0<ZSTlDVVQ3NRP^OWI2
+IN^k2BVBiXUfUh2o9iWA933
+R2
+R0
+w1719461991
+8C:/Work/Codes/FPGALearning/led/quartus_prj/../sim/tb_led.v
+FC:/Work/Codes/FPGALearning/led/quartus_prj/../sim/tb_led.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1719462038.627000
+!s107 C:/Work/Codes/FPGALearning/led/quartus_prj/../sim/tb_led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Work/Codes/FPGALearning/led/quartus_prj/../sim|C:/Work/Codes/FPGALearning/led/quartus_prj/../sim/tb_led.v|
+!i113 0
+R4
+!s92 -vlog01compat -work work +incdir+C:/Work/Codes/FPGALearning/led/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
